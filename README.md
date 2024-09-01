@@ -1,6 +1,6 @@
 ## Proje Adı: Spam Filtresi (Spam Detector)
 
-Bu proje, yapay zeka (AI) ve doğal dil işleme (NLP) tekniklerini kullanarak gelen e-postaların spam olup olmadığını sınıflandırmayı amaçlar. Proje, e-posta metinlerini analiz ederek spam'larda sıklıkla kullanılan kelime ve ifadeleri tespit ederek spam ile normal e-postaları ayırt edebilmeyi öğrenen bir makine öğrenimi modeli oluşturur.
+Bu proje, yapay zeka (AI)  kullanarak gelen e-postaların spam olup olmadığını sınıflandırmayı amaçlar. Proje, e-posta metinlerini analiz ederek spam'larda sıklıkla kullanılan kelime ve ifadeleri tespit ederek spam ile normal e-postaları ayırt edebilmeyi öğrenen bir makine öğrenimi modeli oluşturur.
 
 # Özellikler:
 
